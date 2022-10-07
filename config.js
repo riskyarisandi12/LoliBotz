@@ -6,7 +6,7 @@ global.owner = [
   ['6289669299468', 'ʟᴏʟɪʙᴏᴛ', true]  
   
 ] 
-global.ownername = [['VinGanzz']]
+global.ownername = [['RiskyArisandi Cp:Vinzz']]
 global.namabot = [['𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿']]
 global.ownerinsta = [['@_alv.stn']]
 global.mods = [] 
