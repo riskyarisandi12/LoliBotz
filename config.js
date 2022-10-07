@@ -3,7 +3,7 @@ let chalk = require('chalk')
 global.owner = [
   ['62895613101691'],
   ['6287734910547'],
-  ['62895613101691', 'ʟᴏʟɪʙᴏᴛ', true]  
+  ['62895613101691', 'RISKY ARISANDI', true]  
   
 ] 
 global.ownername = [['RiskyArisandi']]
